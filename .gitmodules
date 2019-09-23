@@ -1,0 +1,12 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/Uniliva/test-eureka-server.git
+[submodule "zuul-server"]
+	path = zuul-server
+	url = https://github.com/Uniliva/test-zuul-server.git
+[submodule "msv-teste1"]
+	path = msv-teste1
+	url = https://github.com/Uniliva/test-msv-teste1.git
+[submodule "msv-teste2"]
+	path = msv-teste2
+	url = https://github.com/Uniliva/test-msv-teste2.git
